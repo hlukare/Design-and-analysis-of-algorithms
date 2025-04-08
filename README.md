@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++%2FJava%2FPython-blue.svg" alt="Languages">
-  <img src="https://img.shields.io/github/repo-size/TechSpectra-Org/Design-and-Analysis-of-Algorithms" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/TechSpectra-Org/Design-and-Analysis-of-Algorithms" alt="Last Commit">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
