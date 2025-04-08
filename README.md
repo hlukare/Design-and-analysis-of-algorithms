@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 Infographics Preview
-
-| ![Divide & Conquer](https://upload.wikimedia.org/wikipedia/commons/4/4c/Merge-sort-example-300px.gif) | ![Greedy Approach](https://miro.medium.com/v2/resize:fit:1200/1*Y4g0WxpgpN_6-m2LY8MTpA.png) |
-|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
-| `Merge Sort Visualization`                                                                            | `Greedy vs DP Comparison`                                                                      |
-
----
-
 ## 🧠 Time & Space Complexity Chart
 
 ```mermaid
