@@ -31,10 +31,11 @@
 
 ```mermaid
 graph TD
-    A[🔍 Binary Search] -->|Time: O(log n)| B[⚡ Quick Sort]
-    B -->|Avg: O(n log n)| C[🎒 Knapsack (DP)]
-    C -->|Time: O(nW)| D[📍 Dijkstra’s Algorithm]
-    D -->|Time: O(E + V log V)| E[📈 Graph Traversal]
+    A[Binary Search] -->|Time: O(log n)| B[Quick Sort]
+    B -->|Avg: O(n log n)| C[Knapsack (DP)]
+    C -->|Time: O(nW)| D[Dijkstra’s Algorithm]
+    D -->|Time: O(E + V log V)| E[Graph Traversal]
+
 
 
 ## 🚀 Getting Started
