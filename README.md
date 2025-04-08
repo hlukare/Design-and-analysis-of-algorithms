@@ -35,7 +35,7 @@ graph TD
     B -->|Avg: O(n log n)| C[Knapsack (DP)]
     C -->|Time: O(nW)| D[Dijkstra’s Algorithm]
     D -->|Time: O(E + V log V)| E[Graph Traversal]
-
+```
 
 
 ## 🚀 Getting Started
